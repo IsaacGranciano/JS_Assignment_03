@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #FAF6E3;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #F87A53;
+    color: #FEF3E2;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FA4032;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    margin: 10px 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
